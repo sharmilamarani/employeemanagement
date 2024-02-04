@@ -1,0 +1,43 @@
+{
+    "departments": {
+      "HR": {
+        "name": "HR",
+        "employees": [
+          "John Doe (101)",
+          "Jane Smith (102)",
+          "Alex Johnson (103)",
+          "Emily Davis (104)"
+        ]
+      },
+      "IT": {
+        "name": "IT",
+        "employees": [
+          "Bob Johnson (201)",
+          "Alice Lee (202)",
+          "Charlie Brown (203)",
+          "Eva Martinez (204)",
+          "David Williams (205)"
+        ]
+      },
+      "Finance": {
+        "name": "Finance",
+        "employees": [
+          "Sophia Miller (301)",
+          "Matthew Jones (302)",
+          "Olivia Wilson (303)",
+          "Daniel Davis (304)"
+        ]
+      },
+      "Marketing": {
+        "name": "Marketing",
+        "employees": [
+          "Ella Harris (401)",
+          "Samuel Taylor (402)",
+          "Lily Robinson (403)",
+          "James White (404)",
+          "Chloe Davis (405)"
+        ]
+      }
+    }
+  }
+  
